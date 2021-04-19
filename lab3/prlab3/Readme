@@ -1,0 +1,9 @@
+Am utilizat serverul regres.in pentru a testa metodele HTTP
+
+Functionalitatea fiecarei metode in programul implementat:
+
+Metoda GET - returneaza o pagina de utilizatori
+Metoda PUT - adauga un nou utilizator
+Metoda DELETE - sterge un utilizator
+Metoda POST - autentificare cu succes
+Metoda PATCH - actualizarea datelor despre un utilizator
