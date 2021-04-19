@@ -1,0 +1,19 @@
+C:\Users\Sirius\Desktop\Client\bin\Debug\Client.exe.config
+C:\Users\Sirius\Desktop\Client\bin\Debug\Client.exe
+C:\Users\Sirius\Desktop\Client\bin\Debug\Client.pdb
+C:\Users\Sirius\Desktop\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Sirius\Desktop\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Sirius\Desktop\Client\obj\Debug\Client.exe
+C:\Users\Sirius\Desktop\Client\obj\Debug\Client.pdb
+C:\Users\spinu\Desktop\Client\bin\Debug\Client.exe.config
+C:\Users\spinu\Desktop\Client\bin\Debug\Client.exe
+C:\Users\spinu\Desktop\Client\bin\Debug\Client.pdb
+C:\Users\spinu\Desktop\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\spinu\Desktop\Client\obj\Debug\Client.exe
+C:\Users\spinu\Desktop\Client\obj\Debug\Client.pdb
+D:\Univer\Univer\Semestru VI\Programarea in Retea\Lab5_PR\Client\bin\Debug\Client.exe.config
+D:\Univer\Univer\Semestru VI\Programarea in Retea\Lab5_PR\Client\bin\Debug\Client.exe
+D:\Univer\Univer\Semestru VI\Programarea in Retea\Lab5_PR\Client\bin\Debug\Client.pdb
+D:\Univer\Univer\Semestru VI\Programarea in Retea\Lab5_PR\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\Univer\Univer\Semestru VI\Programarea in Retea\Lab5_PR\Client\obj\Debug\Client.exe
+D:\Univer\Univer\Semestru VI\Programarea in Retea\Lab5_PR\Client\obj\Debug\Client.pdb

@@ -1,0 +1,13 @@
+C:\Users\Sirius\Desktop\Server\bin\Debug\Server.exe.config
+C:\Users\Sirius\Desktop\Server\bin\Debug\Server.exe
+C:\Users\Sirius\Desktop\Server\bin\Debug\Server.pdb
+C:\Users\Sirius\Desktop\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Sirius\Desktop\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Sirius\Desktop\Server\obj\Debug\Server.exe
+C:\Users\Sirius\Desktop\Server\obj\Debug\Server.pdb
+D:\Univer\Univer\Semestru VI\Programarea in Retea\Lab6_PR\Server\bin\Debug\Server.exe.config
+D:\Univer\Univer\Semestru VI\Programarea in Retea\Lab6_PR\Server\bin\Debug\Server.exe
+D:\Univer\Univer\Semestru VI\Programarea in Retea\Lab6_PR\Server\bin\Debug\Server.pdb
+D:\Univer\Univer\Semestru VI\Programarea in Retea\Lab6_PR\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Univer\Univer\Semestru VI\Programarea in Retea\Lab6_PR\Server\obj\Debug\Server.exe
+D:\Univer\Univer\Semestru VI\Programarea in Retea\Lab6_PR\Server\obj\Debug\Server.pdb

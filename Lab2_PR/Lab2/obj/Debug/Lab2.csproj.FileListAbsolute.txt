@@ -1,0 +1,12 @@
+C:\Users\spinu\Desktop\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\spinu\Desktop\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\spinu\Desktop\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\spinu\Desktop\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\Users\spinu\Desktop\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\spinu\Desktop\Lab2\Lab2\obj\Debug\Lab2.pdb
+D:\Univer\Univer\Semestru VI\Programarea in Retea\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\Univer\Univer\Semestru VI\Programarea in Retea\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\Univer\Univer\Semestru VI\Programarea in Retea\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\Univer\Univer\Semestru VI\Programarea in Retea\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+D:\Univer\Univer\Semestru VI\Programarea in Retea\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\Univer\Univer\Semestru VI\Programarea in Retea\Lab2\Lab2\obj\Debug\Lab2.pdb

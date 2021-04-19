@@ -1,0 +1,28 @@
+D:\Univer\Univer\Semestru VI\Programarea in Retea\Lab4_PR\Lab4_PR\bin\Debug\Lab4_PR.exe.config
+D:\Univer\Univer\Semestru VI\Programarea in Retea\Lab4_PR\Lab4_PR\bin\Debug\Lab4_PR.exe
+D:\Univer\Univer\Semestru VI\Programarea in Retea\Lab4_PR\Lab4_PR\bin\Debug\Lab4_PR.pdb
+D:\Univer\Univer\Semestru VI\Programarea in Retea\Lab4_PR\Lab4_PR\obj\Debug\Lab4_PR.csprojAssemblyReference.cache
+D:\Univer\Univer\Semestru VI\Programarea in Retea\Lab4_PR\Lab4_PR\obj\Debug\Lab4_PR.Form1.resources
+D:\Univer\Univer\Semestru VI\Programarea in Retea\Lab4_PR\Lab4_PR\obj\Debug\Lab4_PR.Properties.Resources.resources
+D:\Univer\Univer\Semestru VI\Programarea in Retea\Lab4_PR\Lab4_PR\obj\Debug\Lab4_PR.csproj.GenerateResource.cache
+D:\Univer\Univer\Semestru VI\Programarea in Retea\Lab4_PR\Lab4_PR\obj\Debug\Lab4_PR.exe
+D:\Univer\Univer\Semestru VI\Programarea in Retea\Lab4_PR\Lab4_PR\obj\Debug\Lab4_PR.pdb
+D:\Univer\Univer\Semestru VI\Programarea in Retea\Lab4_PR\Lab4_PR\bin\Debug\EASendMail.dll
+D:\Univer\Univer\Semestru VI\Programarea in Retea\Lab4_PR\Lab4_PR\obj\Debug\Lab4_PR.Send.resources
+D:\Univer\Univer\Semestru VI\Programarea in Retea\Lab4_PR\Lab4_PR\obj\Debug\Lab4_PR.csproj.CopyComplete
+D:\Univer\Univer\Semestru VI\Programarea in Retea\Lab4_PR\Lab4_PR\bin\Debug\EAGetMail.dll
+D:\Univer\Univer\Semestru VI\Programarea in Retea\Lab4_PR\Lab4_PR\obj\Debug\Lab4_PR.Retrieve.resources
+D:\desktop\utm\anul3\sem2\pr\a_mele\valera\Lab4_PR\Lab4_PR\bin\Debug\Lab4_PR.exe.config
+D:\desktop\utm\anul3\sem2\pr\a_mele\valera\Lab4_PR\Lab4_PR\bin\Debug\Lab4_PR.exe
+D:\desktop\utm\anul3\sem2\pr\a_mele\valera\Lab4_PR\Lab4_PR\bin\Debug\Lab4_PR.pdb
+D:\desktop\utm\anul3\sem2\pr\a_mele\valera\Lab4_PR\Lab4_PR\bin\Debug\EAGetMail.dll
+D:\desktop\utm\anul3\sem2\pr\a_mele\valera\Lab4_PR\Lab4_PR\bin\Debug\EASendMail.dll
+D:\desktop\utm\anul3\sem2\pr\a_mele\valera\Lab4_PR\Lab4_PR\obj\Debug\Lab4_PR.csprojAssemblyReference.cache
+D:\desktop\utm\anul3\sem2\pr\a_mele\valera\Lab4_PR\Lab4_PR\obj\Debug\Lab4_PR.Form1.resources
+D:\desktop\utm\anul3\sem2\pr\a_mele\valera\Lab4_PR\Lab4_PR\obj\Debug\Lab4_PR.Properties.Resources.resources
+D:\desktop\utm\anul3\sem2\pr\a_mele\valera\Lab4_PR\Lab4_PR\obj\Debug\Lab4_PR.Retrieve.resources
+D:\desktop\utm\anul3\sem2\pr\a_mele\valera\Lab4_PR\Lab4_PR\obj\Debug\Lab4_PR.Send.resources
+D:\desktop\utm\anul3\sem2\pr\a_mele\valera\Lab4_PR\Lab4_PR\obj\Debug\Lab4_PR.csproj.GenerateResource.cache
+D:\desktop\utm\anul3\sem2\pr\a_mele\valera\Lab4_PR\Lab4_PR\obj\Debug\Lab4_PR.csproj.CopyComplete
+D:\desktop\utm\anul3\sem2\pr\a_mele\valera\Lab4_PR\Lab4_PR\obj\Debug\Lab4_PR.exe
+D:\desktop\utm\anul3\sem2\pr\a_mele\valera\Lab4_PR\Lab4_PR\obj\Debug\Lab4_PR.pdb
